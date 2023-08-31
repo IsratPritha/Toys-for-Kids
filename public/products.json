@@ -1,0 +1,214 @@
+[
+
+    {
+        "id": "1A",
+        
+        "name": "Stuffed Toys",
+        "seller": "Addidas",
+        "price": 194,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/b7423b3936cb82cc5952cedd8030b9db.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "2A",
+        
+        "name": "Talking Tom cat",
+        "seller": "Addidas",
+        "price": 550,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/5849290de8e7d6e2d24f0756e5e4bd26.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "3A",
+        
+        "name": "Spider Man",
+        "seller": "Addidas",
+        "price": 320,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/a5047f33911ee6eac31c2ebdde17c82c.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "4A",
+        
+        "name": "Jhun Jhuni Set",
+        "seller": "Addidas",
+        "price": 160,
+        "stock": 11,
+        "img": "https://bd-live-21.slatic.net/kf/S66e1f0860955427bb44e9648a1e6b62ag.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "5A",
+        
+        "name": "Chicken Play Clockwork",
+        "seller": "Addidas",
+        "price": 74,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/857ef8f7f88bf19a84fd465f15c16364.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "6A",
+        
+        "name": "Octopus plush",
+        "seller": "Addidas",
+        "price": 183,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/8e4790fd852665a26936b52b774b39d8.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "7A",
+        
+        "name": "Penguin Plush",
+        "seller": "Addidas",
+        "price": 392,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/f59fff0896692c14034e9d7c5a009437.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "8A",
+        
+        "name": "Remote Control Car",
+        "seller": "Addidas",
+        "price":435,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/d648e2fcba4de0bc9e81b4df339a298e.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "9A",
+        
+        "name": "Bus",
+        "seller": "Addidas",
+        "price": 165,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/c000dec821afb8632b495cd4d563226e.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "10A",
+        
+        "name": "6pcs Mini Pullback Car",
+        "seller": "Addidas",
+        "price": 105,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/9d550795672ed17ffc6d144d45ab207f.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "11A",
+        
+        "name": "Battery Racing Car",
+        "seller": "Addidas",
+        "price": 370,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/58958ae64750059bcaf8d1df56116256.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "12A",
+        
+        "name": "Metal Car",
+        "seller": "Addidas",
+        "price": 400,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/3390cd717b70de59db77b51b2e8a1ef9.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "13A",
+        
+        "name": "NYT 1/32 Buggatti Divo Super Sports",
+        "seller": "Addidas",
+        "price": 1377,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/971d973720687122f00dbbb6dac084eb.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "14A",
+        
+        "name": "Maisto 1:18 KTM RC 390 Die-Cast Motorcycle",
+        "seller": "Addidas",
+        "price": 1584,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/74e6048e2ebee0e2cf3f3ebe9e84afa9.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "15A",
+        
+        "name": "Diecast Mini metal Heavy Bike Model",
+        "seller": "Addidas",
+        "price": 550,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/784972f8cc47500bbb46222293992207.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "16A",
+        
+        "name": "Plane Model,380 Airplane Model",
+        "seller": "Addidas",
+        "price": 720,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/ede9268ba98e32f59fa17d3ecc08fb7d.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "17A",
+        
+        "name": "Remote Control car",
+        "seller": "Addidas",
+        "price": 590,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/7ec8c3de65b263f7584a6e1d61345133.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "18A",
+        
+        "name": "Light-Music-Pull-Back-Fiction-Car",
+        "seller": "Addidas",
+        "price": 1190,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/4cf1cc81b098a6d5464803088decc36e.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "19A",
+        
+        "name": "1pcs-Smart Car Robot Plastic Tire Wheel",
+        "seller": "Addidas",
+        "price": 68,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/2f4ad3974c812298d1b4dc325b46534c.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "20A",
+        
+        "name": "WELLY 1:36 Nissan Skyline GT-R ",
+        "seller": "Addidas",
+        "price":1250,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/7fe705e76c7be7e3b283ef8899c900ac.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "21A",
+        
+        "name": "Bat mobile Car Set",
+        "seller": "Addidas",
+        "price": 974,
+        "stock": 11,
+        "img": "https://static-01.daraz.com.bd/p/ea2a778007b583fdd5381d7cadfc82e5.jpg",
+        "quantity": 0
+    }
+    
+]
