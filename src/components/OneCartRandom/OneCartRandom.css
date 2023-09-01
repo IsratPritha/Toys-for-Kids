@@ -1,0 +1,11 @@
+.one-cart img{
+    height:60px;
+    width:60px;
+    margin-right: 20px;
+    border-radius: 50px;
+}
+.name-design{
+    font-size: medium;
+    margin-right: 50px;
+    font-weight: 600;
+}
